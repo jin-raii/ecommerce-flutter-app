@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "284176243891",
+    "project_id": "ecommerce-demo-cb1ab",
+    "storage_bucket": "ecommerce-demo-cb1ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284176243891:android:f58d10e0ece48af07ce4c6",
+        "android_client_info": {
+          "package_name": "com.kctech.ecommercedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284176243891-5f1osurrn1sbomnd031groismq55urg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kctech.ecommercedemo",
+            "certificate_hash": "2e75e21ce823d1f3f5913b1e0d2538e8f7e3823e"
+          }
+        },
+        {
+          "client_id": "284176243891-sli3s7oafr5skebk30cirsqqfump8otm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwb4OgublhUtvCxqg6UPzadKAkPy1o7n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284176243891-sli3s7oafr5skebk30cirsqqfump8otm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
